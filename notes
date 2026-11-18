@@ -1,0 +1,15 @@
+React Components: Components are reusable and independent building blocks of a React application used to create user interfaces.
+
+summary : A React Notes App to create, manage and delete notes.
+
+
+React Hooks : React Hooks allow functional components to manage state and perform side effects. usestate stores and update data, while useEffect handles API calls and executes operations when components render.
+
+Summary : State Management
+
+
+
+API Integration Using Axios : Javascript library used to fetch data from external API'S. In a React Movie App , Axios connects with TMDB to retrieve movie details, posters and ratings using asynchronous requests.
+
+
+Summary / Keywords: API Data Fetching
