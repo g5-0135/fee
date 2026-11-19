@@ -1,0 +1,8 @@
+{
+    "students":[
+        {"id":1,"rollNumber":"101","name":"N Singh","email":"n.singh@example.com"},
+        {"id":2,"rollNumber":"102","name":"A Kumar","email":"a.kumar@example.com"}
+    ],
+    "products": [],
+    "users" : []
+}

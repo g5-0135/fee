@@ -1,0 +1,39 @@
+React Components: Components are reusable and independent building blocks of a React application used to create user interfaces.
+
+summary : A React Notes App to create, manage and delete notes.
+
+
+React Hooks : React Hooks allow functional components to manage state and perform side effects. usestate stores and update data, while useEffect handles API calls and executes operations when components render.
+
+Summary : State Management
+
+
+
+API Integration Using Axios : Javascript library used to fetch data from external API'S. In a React Movie App , Axios connects with TMDB to retrieve movie details, posters and ratings using asynchronous requests.
+
+
+Summary / Keywords: API Data Fetching
+
+
+1. DOM Manipulation
+- DOM stands for Document Object Model.
+- It allows JavaScript to access and modify HTML elements.
+- Important methods: getElementById(), querySelector(), innerHTML, createElement().
+
+Summary: Accessing and modifying HTML elements using JavaScript.
+
+
+2. Events & Event Handling
+- Events are actions performed by users, such as clicking buttons or submitting forms.
+- JavaScript handles these actions using event listeners.
+- Important methods: addEventListener(), onclick, preventDefault().
+
+Summary: Responding to user actions like clicks and inputs.
+
+
+3. Arrays & Array Methods
+- Arrays store multiple values in a single variable.
+- JavaScript provides methods to access, filter and modify array data.
+- Important methods: map(), filter(), reduce(), forEach().
+
+Summary: Storing, accessing and manipulating multiple values.
